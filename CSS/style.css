@@ -1,0 +1,11 @@
+main .photo_album li {
+  list-style: none;
+  text-align: center;
+  justify-content: end;
+}
+main .container .btn{
+  border: none;
+}
+main .container .putimg{
+  border: none;
+}
